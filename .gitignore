@@ -172,4 +172,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Arquivo de variáveis de ambiente (NÃO ENVIAR!)
 .env
